@@ -28,7 +28,7 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
 
 - :computer: My aims is to specialized in building large-scale systems and conducting data analysis also designing, building, and maintaining complex systems for data processing and analysis
 
-- :camera: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :camera: I'm also interested in photography, my main focus are story telling and nature,especially milky way photography .
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ph1eu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ph1eu/)
 
@@ -38,9 +38,9 @@ I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMp
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ph1eu&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=ph1eu&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Hieu's github stats](https://github-readme-stats.vercel.app/api?username=ph1eu&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://api.githubtrends.io/user/svg/ph1eu/langs?time_range=one_year&include_private=True&theme=classic)
+![](https://api.githubtrends.io/user/svg/Ph1eu/langs?time_range=one_year&loc_metric=changed&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ph1eu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
