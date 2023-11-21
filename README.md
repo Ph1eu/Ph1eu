@@ -26,7 +26,7 @@
 ### About Me :
 I am a Computer Science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
 
-- :computer: My aim is to be specialized in building,maintaining large-scale systems for data processing and analysis also being able to conduct data analysis with focus of applied statistic and machine learning 
+- :computer: I build large-scale systems and am a math enthusiast 
 
 - :camera: I'm also interested in photography, my main focus are story telling and nature,especially milky way photography .
 
